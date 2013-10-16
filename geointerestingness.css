@@ -1,0 +1,43 @@
+body {
+	margin-top: 20px;
+	margin-left: 30px;
+	font-family: Arial;
+	font-size: 12pt;
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+div.country {
+	font-size: 20pt;
+}
+
+div.title {
+	font-size: 10pt;
+}
+
+div.pagetitle {
+	position: absolute;
+	top: 30px;
+	right: 5%;
+	text-align: right;
+	color: #CC0000;
+}
+
+div#name {
+	font-size: 40px;
+}
+
+div#subname {
+}
+
+div.author {
+	font-size: 10pt;
+	text-align:right;
+}
+
+div#titleimage {
+}
